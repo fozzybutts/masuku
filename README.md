@@ -1,8 +1,8 @@
-# GAME TITLE
+# Masuku
 
 **Made for Global Game Jam 2026**
 
-A brief description of your game goes here — what it is, how it plays, and the core idea behind it.
+In this 2.5D point and click escape room, you find yourself in a haunted Japanese mask store. Solving puzzles and riddles might be your only shot at survival, though too many mistakes might just cost you your life.
 
 ---
 
@@ -31,5 +31,3 @@ These assets and tools were used under their respective licenses. We thank the c
 
 - **Brush Fonts**  
   Typeface resources from: [BrushFonts.com](https://brushfonts.com/en/)
-
----
